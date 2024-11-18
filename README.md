@@ -1,8 +1,6 @@
 # Análise de Sentimento de Comentários do Instagram
 
 Este projeto realiza a análise de sentimento de comentários de publicações do Instagram usando a API do Instagram e a biblioteca transformers da Hugging Face. O código extrai os comentários de uma mídia específica, os pré-processa (removendo stopwords, URLs, emojis e outros caracteres especiais) e, em seguida, utiliza um modelo pré-treinado para classificar os sentimentos desses comentários.
-
-Descrição do Projeto
 O objetivo deste projeto é coletar os comentários de uma publicação do Instagram e realizar a análise de sentimento para determinar se os comentários são positivos, negativos ou neutros. A análise de sentimento é feita utilizando o modelo BERT (Bidirectional Encoder Representations from Transformers), que foi treinado para lidar com múltiplos idiomas.
 
 Como Funciona:
