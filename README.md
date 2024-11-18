@@ -76,5 +76,7 @@ Instalar as dependências: requests, pandas, torch, transformers, nltk.
 
 
 IMPORTANTE
+
+
 Token de Acesso: Certifique-se de alterar o Access Token no código pelo SEU PRÓPRIO TOKEN, obtido no Facebook Developer Portal.
 O projeto foi testado com uma conta Business/Creator do Instagram. Se você estiver utilizando uma conta pessoal, pode ser necessário converter para uma conta profissional para obter o acesso necessário via API.
